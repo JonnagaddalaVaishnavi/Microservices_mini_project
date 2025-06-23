@@ -37,20 +37,21 @@ This project showcases a microservices-based architecture using **Spring Boot** 
 3. Start services in the following order:
     - Eureka Server
     - Config Server
-    - Zuul API Gateway
-    - IPL Team Service
-    - IPL Player Service
+    - Zipkin Server
+    - API Gateway
+    - Welcome-api
+    - Greet-api
     - Admin Server
 
 ## Usage
 - Register services with Eureka.
-- Use the API Gateway to route requests to IPL services.
+- Use the API Gateway to route requests
 - Monitor services via the Admin Server dashboard.
 
 ## Code Explanation
-Each service is a Spring Boot application with its own configuration and endpoints.
-_Add screenshots of your Eureka dashboard, API Gateway routing, or Admin Server UI here._
+## 🎥 Project Demo
 
+[![Watch the video](https://drive.google.com/file/d/1B-9d1vbUa523CDO9wDn2U7Pd-061lPEW/view?usp=sharing)
 ---
 
 Built with 💡 by [Vaishnavi Jonnagaddala](https://github.com/JonnagaddalaVaishnavi)
