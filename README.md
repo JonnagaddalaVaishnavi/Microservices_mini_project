@@ -51,7 +51,7 @@ This project showcases a microservices-based architecture using **Spring Boot** 
 ## Code Explanation
 ## 🎥 Project Demo
 
-[![Watch the video](https://drive.google.com/file/d/1B-9d1vbUa523CDO9wDn2U7Pd-061lPEW/view?usp=sharing)
+[▶️ Watch the demo video on Google Drive](https://drive.google.com/file/d/1B-9d1vbUa523CDO9wDn2U7Pd-061lPEW/view?usp=sharing)
 ---
 
 Built with 💡 by [Vaishnavi Jonnagaddala](https://github.com/JonnagaddalaVaishnavi)
