@@ -6,9 +6,8 @@ This project showcases a microservices-based architecture using **Spring Boot** 
 ## Features
 - **Eureka Server**: Service registry for microservice discovery.
 - **Config Server**: Centralized configuration management.
-- **Zuul API Gateway**: Routes and filters requests to backend services.
-- **IPL Team Service**: Manages IPL team data.
-- **IPL Player Service**: Manages IPL player data.
+- **API Gateway**: Routes and filters requests to backend services.
+- **Welcome and Greet APIs**
 - **Admin Server**: Provides monitoring and management UI.
 
 ## Technologies Used
