@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: greet
+  config:
+    import:
+    - optional:configserver:http://localhost:4044
+server:
+  port: 5055
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - refresh
